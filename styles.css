@@ -1,0 +1,35 @@
+
+.row-header {
+    background-color: white;
+}
+
+.header-button {
+    border: 10px black;
+}
+
+.data-pages {
+    color: black;
+}
+
+.body-section {
+    padding: 4rem 2rem;
+}
+
+.home-subject {
+    background: lightcyan;
+    border: solid 2px none;
+    padding: 30px;
+}
+
+.img {
+    vertical-align: middle;
+}
+
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
