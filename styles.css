@@ -1,22 +1,28 @@
+body {
+    background-color: lightgray;
+}
 
-.row-header {
+.row {
+    padding: 15px;
+}
+
+
+.homepage-header {
     background-color: white;
+    padding: 5px;
 }
 
-.header-button {
-    border: 10px black;
-}
 
 .data-pages {
     color: black;
 }
 
 .body-section {
-    padding: 4rem 2rem;
+    padding: 15px;
 }
 
 .home-subject {
-    background: lightcyan;
+    background: white;
     border: solid 2px none;
     padding: 30px;
 }
@@ -28,8 +34,27 @@
 .img-thumbnail {
     padding: .25rem;
     background-color: #fff;
-    border: 1px solid #dee2e6;
-    border-radius: .25rem;
+    border: none;
     max-width: 100%;
     height: auto;
+}
+
+a {
+    color: black;
+}
+
+.nav-images {
+    padding: 0px;
+}
+
+.home-page-content-header {
+    padding: 20px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    padding: 10px;
 }
