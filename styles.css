@@ -6,12 +6,15 @@ body {
     padding: 15px;
 }
 
-
 .homepage-header {
     background-color: white;
     padding: 5px;
 }
 
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
 
 .data-pages {
     color: black;
@@ -51,10 +54,6 @@ a {
     padding: 20px;
 }
 
-h2 {
-    font-weight: bold;
-}
-
 p {
     padding: 10px;
 }
@@ -63,4 +62,9 @@ p {
     max-height: 100%;
     max-width: 100%;
     vertical-align: middle;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
 }
